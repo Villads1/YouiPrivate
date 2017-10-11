@@ -3,15 +3,14 @@
   "version": "1.0.0",
   "description": "Private version of Youi",
   "main": "bot.js",
-  "dependencies": {
-    "discord.js": "^11.2.1",
-    "opusscript": "^0.0.4",
-    "ytdl-core": "^0.18.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Villads",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.1"
+  }
 }
