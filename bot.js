@@ -3,7 +3,7 @@ const YTDL = require ("ytdl-core");
 
 
 
-const TOKEN = "MzY2OTg3NDkxODI1Mjg3MTY5.DL6vXg.Gjl46PeBxJaxMRaAeDyu0Q2Ig9";
+const TOKEN = "MzY2OTg3NDkxODI1Mjg3MTY5.DL_uMQ._2l_dAdUE5C1bxWtagjTsHGVRn0";
 const PREFIX = "-";
 
 function generateHex() {
