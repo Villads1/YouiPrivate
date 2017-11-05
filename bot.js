@@ -221,6 +221,8 @@ bot.on("message", function(message) {
         .addField("Nothing", "Does nothing")
         .addField("Commands", "Does this")
         .addField("Help", "Sends you help")
+        .addField("Name" "Sends a random name")
+        .addField("Penis" "Says how long your penis is")
         .addField("Deleterole", "Deletes the role (Disabled)")
         .addField("Removerole", "Remove the role (Disabled)")
         .addField("Addrole", "Adds the role (Disabled)")
